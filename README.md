@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Joekrry/Joekrry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joe, a Masters student based in England.
 
-Here are some ideas to get you started:
+I am currently working as a part-time systems developer alongside my masters degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create and work on anything that perks my interest!
+
+My dissertation is "Applying Deep Learning to EEG Data for Task classification in Brain-Computer Interfaces."
+
+I don't have a specific tech stack, I am confident with languages such as:
+
+- Python
+- C#
+- C
+- Java
+- JavaScript
+
+As well as a variety of frameworks and libraries.
+
