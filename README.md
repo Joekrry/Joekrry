@@ -8,7 +8,7 @@ I create and work on anything that perks my interest!
 
 My dissertation is "Applying Deep Learning to EEG Data for Task classification in Brain-Computer Interfaces."
 
-I don't currently have a specific tech stack, I am confident with:
+I don't currently have a specific tech stack, I am confident with:'
 
 - Python
 - C#
@@ -20,11 +20,10 @@ I don't currently have a specific tech stack, I am confident with:
 - Docker
 - RESTful API
 - SQL
-## + More!
 
-As well as a variety of frameworks and libraries.
+And more!
 
-Hobbies:
+## Hobbies:
 - Gaming (massively)
 - Indoor bouldering
 - Acoustic + Electric guitar
