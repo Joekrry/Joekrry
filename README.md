@@ -18,3 +18,9 @@ I don't have a specific tech stack, I am confident with languages such as:
 
 As well as a variety of frameworks and libraries.
 
+Hobbies:
+- Gaming (massively)
+- Indoor bouldering
+- Acoustic + Electric guitar
+- Travelling the world with my girlfriend Jasmine 👩‍❤️‍👨
+
