@@ -8,17 +8,12 @@ I create and work on anything that perks my interest!
 
 My dissertation is "Applying Deep Learning to EEG Data for Task classification in Brain-Computer Interfaces."
 
-I don't currently have a specific tech stack, I am confident with:
+I am confident with:
 
 - Python
 - C#
 - C
 - Java
-- JavaScript
-- React
-- .NET
-- Docker
-- RESTful API
 - SQL
 
 And more!
