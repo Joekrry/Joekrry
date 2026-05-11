@@ -14,7 +14,7 @@ I use Arch btw
 - DevOps & Tools: Docker, Git, GitHub, Linux, Postman
 - Machine Learning / AI: PyTorch, NumPy, MNE-Python, pytest
 - Workspaces: Arch, Vim, VS-code, Visual-Studio
-- 
+
 ## Hobbies:
 - Gaming (massively)
 - Indoor bouldering
