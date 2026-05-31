@@ -19,4 +19,3 @@ I use Arch btw
 - Gaming (massively)
 - Indoor bouldering
 - Acoustic + Electric guitar
-- Travelling the world with my girlfriend Jasmine 👩‍❤️‍👨
