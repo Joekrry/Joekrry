@@ -19,3 +19,4 @@ I use Arch btw
 - Gaming (massively)
 - Indoor bouldering
 - Acoustic + Electric guitar
+- Travelling (when possible!)
