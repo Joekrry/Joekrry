@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Joe, a Masters student based in Nottingham, England!
+I'm Joe, a Masters software engineering student based in Nottingham, England!
 
-I create and work on anything that perks my interest, I am open to new opportunities so send me a message!
+My major project is: Comparing Deep Learning Architectures for EEG Motor Imagery Classification on the Galea Headsete using Standardised Preprocessing Pipelines.
 
 ## Tech Stack
 I use Arch btw
@@ -13,7 +13,7 @@ I use Arch btw
 - Databases: SQL, SQLite, PostgreSQL
 - DevOps & Tools: Docker, Git, GitHub, Linux, Postman
 - Machine Learning / AI: PyTorch, NumPy, MNE-Python, pytest
-- Workspaces: Arch, Vim, VS-code, Visual-Studio
+- Workspaces: Vim, VS-code, Visual-Studio
 
 ## Hobbies:
 - Gaming (massively)
