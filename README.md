@@ -9,12 +9,11 @@ Any large gaps in activity from May 31st 2026 onward are thesis or work related.
 ## Tech Stack
 I use Arch btw
 
-- Languages: Python, C#, C, Java
-- Frontend: HTML, CSS, JavaScript, React, Vite, Tailwind CSS
-- Backend: Node.js, REST APIs
+- Languages: Python, C, Java
+- Frontend: HTML, CSS, JavaScript, React
 - Databases: SQL, SQLite, PostgreSQL
-- DevOps & Tools: Docker, Git, GitHub, Linux, Postman
-- Machine Learning / AI: PyTorch, NumPy, MNE-Python, pytest
+- DevOps & Tools: Docker, Git, GitHub, Linux, Postman, REST APIs
+- ML / DL: PyTorch, NumPy, MNE-Python, pytest, SciPy, Scikit-learn
 - Workspaces: Vim, VS-code, Visual-Studio
 
 ## Hobbies:
