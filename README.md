@@ -2,7 +2,7 @@
 
 I'm Joe, a Masters software engineering Graduate based in Nottingham, England!
 
-My MSc thesis is: Assessing the Galea Headset on a Benchmark of Deep Learning Architectures and Pre-processing Pipelines for EEG Motor-Imagery Task Classification.
+MSc thesis: Assessing the Galea Headset on a Benchmark of Deep Learning Architectures and Pre-processing Pipelines for EEG Motor-Imagery Task Classification.
 
 ## Tech Stack
 I use Arch btw
