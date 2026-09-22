@@ -12,7 +12,7 @@ I use Arch btw
 - Databases: SQL, SQLite, PostgreSQL
 - DevOps & Tools: Docker, Git, GitHub, Linux, Postman, REST APIs
 - ML / DL: PyTorch, NumPy, MNE-Python, pytest, SciPy, Scikit-learn
-- Workspaces: Vim, VS-code, Visual-Studio
+- Workspaces: neovim, VS-code, Visual-Studio
 
 ## Hobbies:
 - Gaming (massively)
