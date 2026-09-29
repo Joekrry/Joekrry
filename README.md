@@ -17,5 +17,6 @@ I use Arch btw
 ## Hobbies:
 - Gaming (massively)
 - Indoor bouldering
+- Football
 - Acoustic + Electric guitar
 - Travelling (when possible!)
