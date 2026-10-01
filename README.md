@@ -9,10 +9,10 @@ I use Arch btw
 
 - Languages: Python, C, Java
 - Frontend: HTML, CSS, JavaScript, React
-- Databases: SQL, SQLite, PostgreSQL
-- DevOps & Tools: Docker, Git, GitHub, Linux, Postman, REST APIs
+- Databases: SQL, SQLite
+- DevOps & Tools: Docker, Git, GitHub, Linux, Postman, FAST APIs
 - ML / DL: PyTorch, NumPy, MNE-Python, pytest, SciPy, Scikit-learn
-- Workspaces: neovim, VS-code, Visual-Studio
+- Workspaces: neovim, VS-code
 
 ## Hobbies:
 - Gaming (massively)
