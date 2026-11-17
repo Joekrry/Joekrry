@@ -7,6 +7,5 @@ I use Arch btw
 ### about:links
 [Portfolio](https://joekrry.github.io/portfolio/) |
 [Linkedin](https://www.linkedin.com/in/joseph-kerry-b6a488272/) |
-[Leetcode](https://leetcode.com/u/Joekerry/) |
 [Instagram](https://www.instagram.com/joekrry) |
 [CV (PDF)](./Software_Engineer_CV_Joe_Kerry.pdf)
